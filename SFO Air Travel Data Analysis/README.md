@@ -18,3 +18,12 @@ Data set records the flight route related information. Parameters:
 
 ## Dashboard link:
 - [Click here to check out the Tableau Dashboard made by me](https://public.tableau.com/views/AirTravelSFO/AirTravelSFO?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+## Questions tried to be answered
+
+- What are the total number of flights in a day?
+- Find the busiest day at SFO Airport
+- What are the total number of flights per day in a month
+- What are the top 10 busiest flight routes?
+- What are the top 10 longest flight routes?
+- Represents the flights flying outside SFO towards other parts of the world.
