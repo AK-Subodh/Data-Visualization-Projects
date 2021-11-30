@@ -23,7 +23,7 @@ Data is chaotic. It's useful only when meaningful insights can be drawn from it.
 - Sisense
 - IBM Cognos Analysis and many more.
 
-## Some of the Exciting DataViz Community activities to look for:
+## Some of the Exciting DataViz Community activities to look for and participate:
 - #MakeoverMonday
 - #WorkoutWednesday
 - #ThrowbackDataThursday
