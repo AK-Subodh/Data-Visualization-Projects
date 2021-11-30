@@ -37,3 +37,6 @@ Data is chaotic. It's useful only when meaningful insights can be drawn from it.
 
 ## How this repository is designed?
 All the projects in this repository are made for practising the art of Data Visualization (#DataViz) mastering most popular DataViz tool Tableau. Used Data sets from various resources like Kaggle, MakeoverMonday website, etc. Each folder has a README file that contains all the Context information regarding the task as well as Small version of code book describing the parameters recorded in the data. Each folder contains the data set used for the same and the link to the Dashboard Published on my Tableau Public Profile. Feel free to check it out. All constructive criticisms are welcomed. 
+
+# Excellent Resources to learn Tableau
+- [Simplilearn Tableau Training](https://youtu.be/xwj2p4LSD1k)
