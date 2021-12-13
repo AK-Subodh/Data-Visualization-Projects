@@ -89,10 +89,10 @@ For support:
 
 # For the complete story, please visit:
 
-[Click Here to visit my profile:](https://public.tableau.com/views/GenderInequalityinHIVInfectionsinAdolescents_16383480846700/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+[Click Here to visit my profile](https://public.tableau.com/views/GenderInequalityinHIVInfectionsinAdolescents_16383480846700/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 
-[Also: ](https://twitter.com/AK_Subodh_/status/1470396359270232065?s=20)
+[Also](https://twitter.com/AK_Subodh_/status/1470396359270232065?s=20)
 
 
 
