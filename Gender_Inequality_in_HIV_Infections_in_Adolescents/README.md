@@ -47,7 +47,7 @@ For support:
 
 
 ## Trends seen in sheets and possible reason/relevance for study:
-- **Sheet1 : People Living with HIV over the years **
+- **Sheet1 : People Living with HIV over the years**
   
   Line graph is plot to see the total estimated number of people that live over the years.
   We can see that estimated number of people living with HIV keeps on increasing over the years for both sex.
@@ -64,7 +64,7 @@ For support:
        [Source: ](https://npin.cdc.gov/pages/hiv-and-aids-timeline)
 
 
-- **Sheet3: New HIV cases over the years **
+- **Sheet3: New HIV cases over the years**
 
   Trend is similar to the previous sheet. 
   It's just that the curve lost it's shrpness as compared to sheet2.
